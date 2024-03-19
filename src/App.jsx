@@ -6,7 +6,7 @@ function App() {
     return (
       <div>
           <h1>Team name</h1>
-          <h1> najum </h1>
+          <h1> jessie </h1>
       </div>
     )
 }
