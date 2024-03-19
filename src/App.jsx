@@ -7,6 +7,7 @@ function App() {
       <div>
           <h1>Team name</h1>
           <h1> najum </h1>
+          <h1> nick g </h1>
       </div>
     )
 }
