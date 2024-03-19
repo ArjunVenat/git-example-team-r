@@ -5,8 +5,8 @@ function App() {
     //Commit your changes and submit a pull request
     return (
       <div>
-          <h1>Team name</h1>
-          <h1> najum </h1>
+          <h1>Red Rocks</h1>
+          <h1> Zihan Li</h1>
       </div>
     )
 }
